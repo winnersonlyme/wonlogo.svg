@@ -12,7 +12,7 @@
 If you'd like a personalized [wonlogo.svg][] of your own, click the **[Use this template][]** on the [wonlogo.svg][] repo.
 
 <center>
-  ![](https://raw.githubusercontent.com/winnersonlyme/wonlogo.svg/main/index.svg)
+  <img src="https://raw.githubusercontent.com/winnersonlyme/wonlogo.svg/main/index.svg" />
 </center>
 
 ---
