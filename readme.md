@@ -11,9 +11,7 @@
 
 If you'd like a personalized [wonlogo.svg][] of your own, click the **[Use this template][]** on the [wonlogo.svg][] repo.
 
-<center>
-  <img src="https://raw.githubusercontent.com/winnersonlyme/wonlogo.svg/main/index.svg" />
-</center>
+![](https://raw.githubusercontent.com/winnersonlyme/wonlogo.svg/main/index.svg)
 
 ---
 [SVG]: https://www.w3.org/Graphics/SVG/
