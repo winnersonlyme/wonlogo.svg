@@ -1,6 +1,6 @@
 <svg
   version="1.1"
-  id="Won Sign (U+20A9): God First"
+  id="wonlogo.svg unicode wordmark ID badge for ￦"
   viewBox="0 0 350 350"
   width="350"
   height="350"
@@ -22,27 +22,10 @@
     />
   <text
     id="uniqode"
-    font-size="15em"
+    font-size="14.5em"
     fill="#000"
     x="174"
-    y="255"
+    y="266"
     dy="0"
-    >₩</text>
-  <text
-    id="name"
-    font-size="1.5em"
-    fill="#000"
-    x="175"
-    y="290"
-    dy="0"
-    >Wil Moore III</text>
-  <text
-    id="domain"
-    font-size="0.95em"
-    font-style="italic"
-    fill="#000"
-    x="175"
-    y="305"
-    dy="0"
-    ></text>
+    >￦</text>
 </svg>
