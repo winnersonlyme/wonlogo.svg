@@ -1,0 +1,6 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+yarn svg:export
+git add index.{png,jpg} && \
+  git commit -m 'svg:export' --no-verify && git push

@@ -1,0 +1,22 @@
+{
+  "name": "wonlogo.svg",
+  "version": "1.0.0",
+  "main": "index.svg",
+  "repository": "git@github.com:wilmoore/wonlogo.svg.git",
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "svg:export"
+    }
+  },
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "svgexport": "^0.4.2"
+  },
+  "scripts": {
+    "svg:export": "svgexport index.svg index.png && svgexport index.svg index.jpg",
+    "jpg:import": "./userpic.sh $USER ./index.jpg",
+    "prepare": "husky install"
+  }
+}

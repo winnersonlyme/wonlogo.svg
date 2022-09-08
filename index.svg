@@ -1,0 +1,48 @@
+<svg
+  version="1.1"
+  id="Won Sign (U+20A9): God First"
+  viewBox="0 0 350 350"
+  width="350"
+  height="350"
+  text-anchor="middle"
+  font-family="Times New Roman"
+  style="background-color: transparent important!;"
+  xmlns="http://www.w3.org/2000/svg"
+  >
+  <circle
+    id="badge"
+    fill="none"
+    fill-opacity="0"
+    stroke="#000"
+    stroke-width="21"
+    shape-rendering="geometricPrecision"
+    cx="175"
+    cy="175"
+    r="155"
+    />
+  <text
+    id="uniqode"
+    font-size="15em"
+    fill="#000"
+    x="174"
+    y="255"
+    dy="0"
+    >₩</text>
+  <text
+    id="name"
+    font-size="1.5em"
+    fill="#000"
+    x="175"
+    y="290"
+    dy="0"
+    >Wil Moore III</text>
+  <text
+    id="domain"
+    font-size="0.95em"
+    font-style="italic"
+    fill="#000"
+    x="175"
+    y="305"
+    dy="0"
+    ></text>
+</svg>
